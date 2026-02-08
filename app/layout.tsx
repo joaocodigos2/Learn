@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Central de Direito",
-  description: "Centralize com clareza as informações do 1º semestre de Direito."
+  title: "Campus Board",
+  description: "Organize seus conteúdos da faculdade em um só lugar."
 };
 
 export default function RootLayout({

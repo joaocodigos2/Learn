@@ -1,6 +1,6 @@
-# Central de Direito
+# Campus Board
 
-Projeto em Next.js para centralizar informações do 1º semestre de Direito.
+Projeto em Next.js para organizar conteúdos da faculdade.
 
 ## Como rodar
 
